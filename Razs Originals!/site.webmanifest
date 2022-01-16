@@ -1,0 +1,23 @@
+   {
+    "name": "Razs Originals!",
+    "short_name": "RazsOriginals",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjN0nKBPbyoNpER9g9aYWoQuf8HIt5eHoUT32TfMsvmVqksCsdpUSKqFZ5fBWxLjTc_dwl7ySQylYYbXvJ9u1DogZ0vMczZH192OvSrt2CsNvJDI413j6brOuUotgYcM6aqbVj8BQOAQF3NagewLhecgyL1Eqz1Eh9ZN7m60H-HXyfjDIVpyPGJVygH",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjD129S3uHxUBb6dHLKTTlU8Er8OFjnIYevGBbyV5F1oWCpA2Xjx35WdhlX10OIjo0cw0bXOOJJVUFGsC56LbsxrTkfwUjvwGP0ipNlOMssj2WsDbdfsEYzktPmaXgnVPaGyRk22o7kqZ0QBkzA0K-CY4KeN2UQopKOYa6RPsxlYpoF5wNrYLG6UpqQ",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.razsoriginals.eu.org"
+}
