@@ -51,11 +51,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to install Samsung One UI 4 Keyboard | Honeyboard port](https://www.razsoriginals.eu.org/2021/12/how-to-install-samsung-one-ui-4.html)
-- [ProtonAOSP Android 12 for Samsung Galaxy devices| GSI Rom](https://www.razsoriginals.eu.org/2021/12/protonaosp-android-12-for-samsung.html)
-- [How to unbrick your Samsung Galaxy smartphone](https://www.razsoriginals.eu.org/2021/11/how-to-unbrick-your-samsung-galaxy.html)
-- [How to install android 12 on any arm64 device](https://www.razsoriginals.eu.org/2021/11/how-to-install-android-12-on-any-arm64.html)
-- [Lineage OS (A12) for M30s/A50s/A50/A51](https://www.razsoriginals.eu.org/2021/11/lineage-os-12-for-m30sa50sa50a51.html)
+- [Samsung One UI 4.0 Port Apps for every Samsung devices](https://www.razsoriginals.eu.org/2022/01/samsung-one-ui-40-port-apps-for-every.html)
+- [How to remove unlocked bootloader warning | Samsung Galaxy A22](https://www.razsoriginals.eu.org/2022/01/how-to-remove-unlocked-bootloader.html)
+- [How to install Project Sakura on Galaxy M30s | Android 11](https://www.razsoriginals.eu.org/2022/01/how-to-install-project-sakura-on-galaxy.html)
+- [A40s OneUI 3.1 Port for Samsung Galaxy M30 | Android 11](https://www.razsoriginals.eu.org/2022/01/a40s-oneui-31-port-for-samsung-galaxy.html)
+- [How to install Samsung Galaxy S21 OneUI 3.1 Port on Galaxy M30s](https://www.razsoriginals.eu.org/2022/01/how-to-install-samsung-galaxy-s21-oneui.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.razsoriginals.eu.org/)
