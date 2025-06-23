@@ -919,6 +919,7 @@ section {
         grid-template-columns: 1fr;
         text-align: center;
         gap: 2rem;
+        padding: 0 20px;
     }
 
     .hero-title {
