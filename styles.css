@@ -1010,6 +1010,10 @@ section {
         padding: 60px 0;
     }
 
+    .hero {
+        margin-top: 50px;
+    }
+
     .hero-title {
         font-size: 2rem;
     }
