@@ -1,13 +1,65 @@
-## Hello World! 👋
-I'm Raza Mehdi Sayyed, also known as **Razs**.  I'm a student developer with basic experience in Android development.
+# Hi there, I'm Raza Mehdi Sayyed 👋
 
-### 👨‍💻 About Me
-- 😄 Pronouns: **He/Him**
-- 🧒 I started tinkering on Android since I was **14**.
-- 🎒 I'm currently studying **Computer Science** at the **SVKM's Mithibai College - Mumbai**.
-- 🤖 Apart from programming, I also write **tech blogs** on Android and related topics.  :>
-- ✉ **Any inquiries about my projects?** Contact me via e-mail: [razaabbassayyed14@gmail.com](mailto:razaabbassayyed14@gmail.com).
+**Associate Decision Scientist** at Fractal Analytics | **Data Science Enthusiast** | **Full-Stack Developer**
 
-### 📣 I'm on Social!
-<div class="cl-preview-section" align="center"><p><a href="https://raza.razsoriginals.com"><img src="https://img.shields.io/badge/Website-%231572B6.svg?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/raza-sayyed/"><img src="https://img.shields.io/badge/Raza Sayyed-%231DA1F2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://t.me/razs_redirect/6"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.razsoriginals.com"><img src="https://img.shields.io/badge/Razs Originals!-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Razs Originals"></a></p>
-</div>
+📧 razaabbassayyed14@gmail.com | 🌐 [razsoriginals.eu.org](https://razsoriginals.eu.org) | 📱 +91 7039020174 | 📍 Mumbai, India
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (BSc. CS)** | *GPA: 7.5/10*  
+SVKM Mithibai College, Mumbai | *April 2024*
+
+**Additional Certifications:**
+- Fractal Data Science Professional Certificate
+- Fractal Certified SQL Developer
+- Alpha 2.0 DSA with Java
+- CS50 Introduction to Computer Science
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 **Associate Decision Scientist** | *Fractal Analytics*
+*Nov 2024 - Present | Mumbai*
+- Building automated reporting solutions using **Power BI** for real-time business insights
+- Modernizing data workflows with **Azure Data Factory** and **Databricks**
+- Developing GenAI projects with **LLM techniques** for intelligent automation
+
+### 🔹 **Event Management Intern** | *Re-Defined*
+*Aug 2023 - Nov 2023 | Mumbai*
+- Successfully planned and executed diverse events with strong organizational skills
+
+---
+
+## 🚀 Featured Projects
+
+### **eComm AI - Fashion Industry Chatbot**
+*June 2024 - Nov 2024*
+- Developed conversational AI system with **LLaMA3**, **NLP**, and **Elasticsearch**
+- Implemented **RAG** for real-time product recommendations from 90,000+ indexed products
+- Built image-based search functionality and collaborated on **Flutter** frontend development
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python • SQL • JavaScript • HTML • CSS  
+**Frameworks & Libraries:** Flask • Flutter • LangChain • Pandas • NumPy  
+**Tools & Technologies:** Power BI • Git • Figma • ElasticSearch • Firebase • MongoDB  
+**Cloud & Data:** Azure Data Factory • Azure Databricks • Apache Spark • ChromaDB  
+**Specializations:** Machine Learning • Data Science • GenAI • Prompt Engineering
+
+---
+
+## 🏆 Leadership & Achievements
+
+🌟 **Star of the Batch** - Fractal Analytics (Honored by Fractal Academy of Analytics)  
+👑 **Vice Chairperson** - Mithibai TechSpark (Led 95+ volunteers, 50% increase in participation)  
+🔬 **Research Ambassador** - R&D Cell, Mithibai College
+
+---
+
+### 💬 Let's Connect!
+I'm always open to interesting conversations and collaboration opportunities!
